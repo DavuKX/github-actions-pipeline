@@ -6,12 +6,12 @@ export default function Home() {
           Welcome
         </h1>
         <p className="text-lg sm:text-xl text-gray-700 dark:text-gray-300">
-          This is a simple landing page to demonstrate CI/CD deployment using GitHub Actions.
+          This is a simple landing page to  CI/CD deployment using GitHub Actions.
         </p>
       </main>
 
       <footer className="mt-16 text-sm text-gray-500 dark:text-gray-400">
-        &copy; {new Date().getFullYear()} DevOps Demo Project
+        &copy; {new Date().getFullYear()} DevOps Demo ProjecT
       </footer>
     </div>
   );
